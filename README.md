@@ -36,4 +36,4 @@ return [
 
 ## Technology stack
 
-PHP, MySQL, REST
+PHP, MySQL, REST API
