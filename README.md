@@ -1,4 +1,4 @@
-<h1 align="center">Rest Note application. Server. </h1>
+<h1 align="center">Simpler Keeper application. Server. </h1>
 
 <h2 align="center"><a  href="http://o993270b.beget.tech/">Live Demo</a></h2>
 
