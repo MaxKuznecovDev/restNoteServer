@@ -20,7 +20,7 @@ You can use note.sql from repository and add new database to your database.
 ### 2.Connection to your database:
 
 ```php
-// restNoteServer/config/config_db.php 
+// config/config_db.php 
 <?php
 /**
  * This file sets initial db connection properties
